@@ -50567,7 +50567,7 @@ while(true)switch(s){case 0:window.navigator.toString
 q=window.navigator
 q.toString
 p=t.z
-B.mo.HH(q,A.a7(["title","Square Cent","text","Square Cent \n https://tradingtroops.com/"],p,p)).bH(0,new A.asA(),t.P).ly(new A.asB())
+B.mo.HH(q,A.a7(["title","Square Cent","text","Square Cent \n "],p,p)).bH(0,new A.asA(),t.P).ly(new A.asB())
 return A.r(null,r)}})
 return A.t($async$LJ,r)}}
 A.asC.prototype={
