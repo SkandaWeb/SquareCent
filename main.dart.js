@@ -52655,7 +52655,7 @@ return A.eG(new A.lK(!0,"Terms & Conditions",s),B.al,A.at(A.a([A.b6(A.d8(A.at(A.
 A.FI.prototype={
 Cd(a){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Cd=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uid/getusers",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uid/getusers",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=a
@@ -52666,7 +52666,7 @@ return A.y(null,r)}})
 return A.z($async$Cd,r)},
 nW(a){var s=0,r=A.A(t.z),q,p,o,n
 var $async$nW=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/getadmindata",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/getadmindata",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=a
@@ -52677,7 +52677,7 @@ return A.y(null,r)}})
 return A.z($async$nW,r)},
 Cs(a,b,c){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Cs=A.w(function(d,e){if(d===1)return A.x(e,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/business/requirement",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/business/requirement",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=c
@@ -52691,7 +52691,7 @@ Md(){var s=t.N
 return A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],s,s)},
 oG(a,b){var s=0,r=A.A(t.z),q=this,p,o,n
 var $async$oG=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:p=A.co("http://localhost:8080/api/gallery/deleteGallery",0,null)
+while(true)switch(s){case 0:p=A.co("https://square-cent.vercel.app/api/gallery/deleteGallery",0,null)
 o=q.Md()
 n=b
 s=2
@@ -52702,7 +52702,7 @@ return A.z($async$oG,r)},
 Fu(a,b){return this.aCh(a,b)},
 aCh(a,b){var s=0,r=A.A(t.z),q=this,p,o,n
 var $async$Fu=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:p=A.co("http://localhost:8080/api/gallery/addgallery",0,null)
+while(true)switch(s){case 0:p=A.co("https://square-cent.vercel.app/api/gallery/addgallery",0,null)
 o=q.Md()
 n=b
 s=2
@@ -52712,7 +52712,7 @@ return A.y(null,r)}})
 return A.z($async$Fu,r)},
 Ck(a){var s=0,r=A.A(t.z),q=this,p,o,n
 var $async$Ck=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:p=A.co("http://localhost:8080/api/gallery/getgallery",0,null)
+while(true)switch(s){case 0:p=A.co("https://square-cent.vercel.app/api/gallery/getgallery",0,null)
 o=q.Md()
 n=a
 s=2
@@ -52726,7 +52726,7 @@ return A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*
 Hw(a,b,c){return this.aKe(a,b,c)},
 aKe(a,b,c){var s=0,r=A.A(t.z),q=this,p,o,n
 var $async$Hw=A.w(function(d,e){if(d===1)return A.x(e,r)
-while(true)switch(s){case 0:p=A.co("http://localhost:8080/api/admin/login",0,null)
+while(true)switch(s){case 0:p=A.co("https://square-cent.vercel.app/api/admin/login",0,null)
 o=q.Yz()
 n=b
 s=2
@@ -52737,7 +52737,7 @@ return A.z($async$Hw,r)},
 xL(a,b){return this.ahK(a,b)},
 ahK(a,b){var s=0,r=A.A(t.z),q=this,p,o,n
 var $async$xL=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:p=A.co("http://localhost:8080/api/uid/login",0,null)
+while(true)switch(s){case 0:p=A.co("https://square-cent.vercel.app/api/uid/login",0,null)
 o=q.Yz()
 n=b
 s=2
@@ -52748,7 +52748,7 @@ return A.z($async$xL,r)}}
 A.YQ.prototype={
 nW(a){var s=0,r=A.A(t.z),q,p,o,n
 var $async$nW=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/getmasterdata",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/getmasterdata",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=a
@@ -52760,7 +52760,7 @@ return A.z($async$nW,r)},
 Fz(a,b){return this.aCt(a,b)},
 aCt(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Fz=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uid/requirement",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uid/requirement",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52772,7 +52772,7 @@ return A.z($async$Fz,r)}}
 A.KI.prototype={
 Co(a){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Co=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uid/get",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uid/get",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=a
@@ -52784,7 +52784,7 @@ return A.z($async$Co,r)},
 Fx(a,b){return this.aCp(a,b)},
 aCp(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Fx=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uid/update",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uid/update",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52796,7 +52796,7 @@ return A.z($async$Fx,r)},
 CP(a,b){return this.ac3(a,b)},
 ac3(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$CP=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uid/signup",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uid/signup",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52808,7 +52808,7 @@ return A.z($async$CP,r)}}
 A.mm.prototype={
 Cq(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Cq=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/getpropertyData",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/getpropertyData",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52819,7 +52819,7 @@ return A.y(null,r)}})
 return A.z($async$Cq,r)},
 Gc(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Gc=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/deleteproperty",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/deleteproperty",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52830,7 +52830,7 @@ return A.y(null,r)}})
 return A.z($async$Gc,r)},
 oG(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$oG=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/deleteimage",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/deleteimage",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52842,7 +52842,7 @@ return A.z($async$oG,r)},
 Fy(a,b,c){return this.aCr(a,b,c)},
 aCr(a,b,a0){var s=0,r=A.A(t.z),q,p,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$Fy=A.w(function(a1,a2){if(a1===1)return A.x(a2,r)
-while(true)switch(s){case 0:l=A.co("http://localhost:8080/api/uup/property/add",0,null)
+while(true)switch(s){case 0:l=A.co("https://square-cent.vercel.app/api/uup/property/add",0,null)
 k=t.N
 j=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],k,k)
 i=$.fY
@@ -52866,7 +52866,7 @@ return A.y(null,r)}})
 return A.z($async$Fy,r)},
 Cw(a){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Cw=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/getuserproperty",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/getuserproperty",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=a
@@ -52878,7 +52878,7 @@ return A.z($async$Cw,r)},
 Cp(a,b){return this.ab_(a,b)},
 ab_(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Cp=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/getcategoryprop",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/getcategoryprop",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52889,7 +52889,7 @@ return A.y(null,r)}})
 return A.z($async$Cp,r)},
 Cj(a){var s=0,r=A.A(t.z),q,p,o,n
 var $async$Cj=A.w(function(b,c){if(b===1)return A.x(c,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/getfavourite",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/getfavourite",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=a
@@ -52901,7 +52901,7 @@ return A.z($async$Cj,r)},
 IL(a,b){return this.aNI(a,b)},
 aNI(a,b){var s=0,r=A.A(t.z),q,p,o,n
 var $async$IL=A.w(function(c,d){if(c===1)return A.x(d,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/updateFavourite",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/updateFavourite",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
@@ -52913,7 +52913,7 @@ return A.z($async$IL,r)},
 IN(a,b,c){return this.aNO(a,b,c)},
 aNO(a,b,c){var s=0,r=A.A(t.z),q,p,o,n
 var $async$IN=A.w(function(d,e){if(d===1)return A.x(e,r)
-while(true)switch(s){case 0:q=A.co("http://localhost:8080/api/uup/property/updatestatus",0,null)
+while(true)switch(s){case 0:q=A.co("https://square-cent.vercel.app/api/uup/property/updatestatus",0,null)
 p=t.N
 o=A.aj(["Content-Type","application/json ","Access-Control-Allow-Origin","*","x-api-key",new A.fB().hs()],p,p)
 n=b
