@@ -52248,7 +52248,7 @@ while(true)switch(s){case 0:window.navigator.toString
 q=window.navigator
 q.toString
 p=t.z
-B.y2.TZ(q,A.ak(["title","Squarecent","text","Squarecent \n "],p,p)).c7(0,new A.ays(),t.P).ox(new A.ayt())
+B.y2.TZ(q,A.ak(["title","Squarecent","text","Checkout this website Squarecent \n https://squarecent.com"],p,p)).c7(0,new A.ays(),t.P).ox(new A.ayt())
 return A.y(null,r)}})
 return A.z($async$Nx,r)}}
 A.ayu.prototype={
