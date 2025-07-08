@@ -53188,7 +53188,7 @@ new A.cb().bO("Please Fill Property Type",r,1,1)
 return!1}else if(r[2].a.a.length===0){r=s.c
 r.toString
 new A.cb().bO("Please Fill Location",r,1,1)
-return!1}else if(s.w[3].length===0){r=s.c
+return!1}else if(r[3].a.a.length===0){r=s.c
 r.toString
 new A.cb().bO("Please Fill Total Surface Area",r,1,1)
 return!1}else if(r[4].a.a.length===0){r=s.c
